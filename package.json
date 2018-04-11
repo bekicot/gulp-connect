@@ -46,7 +46,7 @@
   "dependencies": {
     "ansi-colors": "^1.0.1",
     "connect": "^3.6.5",
-    "connect-livereload": "^0.5.4",
+    "connect-livereload": "github:nitinhayaran/connect-livereload#a2fdcbd56e6c448eeaa7ca39778fd53ead9a913f",
     "event-stream": "^3.3.2",
     "fancy-log": "^1.3.2",
     "send": "^0.13.2",
